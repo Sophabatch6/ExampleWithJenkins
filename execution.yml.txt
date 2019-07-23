@@ -17,7 +17,5 @@ logger: logger -t unicorn
 user: www
 wait: 1
 require:
-
-
   - foo
   - bar
